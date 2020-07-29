@@ -12,8 +12,9 @@
 ![Andrea's github stats](https://github-readme-stats.vercel.app/api?username=da-edra&count_private=true&show_icons=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=da-edra&theme=buefy&layout=compact)](https://github.com/da-edra/github-readme-stats)
 
-![Women who Go](https://raw.githubusercontent.com/ashleymcnamara/gophers/master/WOMEN_WHO_GO_SEATTLE.png)
-
+![Women who Go](http://static.velvetcache.org/pages/2018/06/13/party-gopher/party-gopher.gif)
+![Women who Go](http://static.velvetcache.org/pages/2018/06/13/party-gopher/party-gopher.gif)
+![Women who Go](http://static.velvetcache.org/pages/2018/06/13/party-gopher/party-gopher.gif)
 </div>
 <!--
 **da-edra/da-edra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
