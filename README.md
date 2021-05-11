@@ -1,24 +1,35 @@
-<div align="center">
-  
-# ![Kawaii dancing cat](https://i.giphy.com/media/IcJ6n6VJNjRNS/giphy.webp) _Welcome!_ ![Kawaii dancing cat](https://i.giphy.com/media/IcJ6n6VJNjRNS/giphy.webp)
+<div align="center" style="border-top: 2px solid pink;">
 
-![Andrea's github stats](https://github-readme-stats.vercel.app/api?username=da-edra&count_private=true&show_icons=true&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=da-edra&theme=buefy&layout=compact)](https://github.com/da-edra/github-readme-stats)
+<img align="left" src="img/icons8-kawaii-ice-cream-100.png" width="100">
 
-![Kobayashi typing](https://thumbs.gfycat.com/EnchantedBouncyAfricanpiedkingfisher-size_restricted.gif)
+<img align="right" src="img/icons8-maneki-100.png" width="100">
+
+# hello world!
 
 </div>
-<!--
-**da-edra/da-edra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center" style="border-bottom: 2px solid pink;">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img align="center" src="img/icons8-web-design-100.png" width="45"> **Website:** [denisse.dev](https://denisse.dev)
+
+### <img align="center" src="img/icons8-love-letter-100.png" width="45"> **Email:** [github@denisse.dev](mailto:github@denisse.dev)
+
+### <img align="center" src="img/icons8-show-password-100.png" width="45"> **Email password:** `****************`
+
+### <img align="center" src="img/icons8-chat-100.png" width="45"> **IRC Freenode:** `denisse`
+
+### <img align="center"  src="img/icons8-linux-100.png" width="45"> **Linux distribution:** `Arch Linux`
+
+### <img align="center" src="img/icons8-blog-100.png" width="45"> **Text editor:** `Emacs`
+
+### <img align="center" src="img/icons8-translation-100.png" width="45"> **Let's talk in:** `ES/EN/中文`
+
+### <img align="center" src="img/icons8-heart-key-100.png" width="45"> **PGP fingerprint:** `B1C8 9276 8BA5 23F2 3EF0  B9B5 C684 2F35 C2C1 BF12`
+
+</div>
+
+<div align="right">
+
+icons by [icons8](icons8.com)
+
+</div>
