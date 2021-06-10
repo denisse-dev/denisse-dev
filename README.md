@@ -27,7 +27,7 @@
 
 <img align="center" src="img/icons8-translation-100.png" width="35"> **Let's talk in:** `ES/EN/中文`
 
-<img align="center" src="img/icons8-heart-key-100.png" width="35"> **PGP fingerprint:** `B1C8 9276 8BA5 23F2 3EF0  B9B5 C684 2F35 C2C1 BF12`
+<img align="center" src="img/icons8-heart-key-100.png" width="35"> **PGP fingerprint:** `3DFF 9745 BCDE 5F4F F3AA  BE0E 13DD 4991 DD98 B648`
 
 </div>
 
