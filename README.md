@@ -9,17 +9,17 @@
 </div>
 <br><br><br>
 
-<img align="right" src="img/my-computer.png" width="250">
+<img align="right" src="img/nyarch.svg" width="250">
 
 <div align="left">
 
 <img align="center" src="img/icons8-web-design-100.png" width="35"> **Website:** [denisse.dev](https://denisse.dev)
 
-<img align="center" src="img/icons8-love-letter-100.png" width="35"> **Email address:** [github@denisse.dev](mailto:github@denisse.dev)
+<img align="center" src="img/icons8-love-letter-100.png" width="35"> **Email address:** **github at denisse dot dev**
 
-<img align="center" src="img/icons8-show-password-100.png" width="35"> **Email password:** `****************`
+<img align="center" src="img/icons8-show-password-100.png" width="35"> **Email password:** `**********************************`
 
-<img align="center" src="img/icons8-chat-100.png" width="35"> **IRC Freenode nick:** `denisse`
+<img align="center" src="img/icons8-chat-100.png" width="35"> **IRC LiberaChat nick:** `denisse`
 
 <img align="center"  src="img/icons8-linux-100.png" width="35"> **Favorite Linux distro:** `Arch Linux`
 
@@ -31,14 +31,8 @@
 
 </div>
 
-<div align="right">
-
-icons by [icons8](icons8.com)
-
-</div>
-
 <div align="center">
-  
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -90,5 +84,11 @@ BQkFo5qAAAoJEBPdSZHdmLZIKL0A/0NVXqulifh6AKaoE/pt9Wzf2iKqDMvrjimg
 =xtP7
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+</div>
+
+<div align="right">
+
+icons by [icons8](icons8.com)
 
 </div>
